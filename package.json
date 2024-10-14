@@ -1,0 +1,26 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdaous-romdhane/Cypress-automation.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "author": "ferdaous romdhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdaous-romdhane/Cypress-automation/issues"
+  },
+  "homepage": "https://github.com/ferdaous-romdhane/Cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
