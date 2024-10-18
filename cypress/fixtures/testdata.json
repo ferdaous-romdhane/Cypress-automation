@@ -1,0 +1,20 @@
+{
+
+"login" : {
+"username":"ferdaous_romdhane@hotmail.fr",
+"password":"ferdaous123"
+},
+
+"product" : {
+"productName":"MacBook"
+},
+
+"message" : {
+"success":"Success: You have added MacBook to your shopping cart!"
+}
+
+
+
+
+
+}
